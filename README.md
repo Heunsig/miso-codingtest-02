@@ -1,8 +1,8 @@
 # How to use
-'''
+```
 sum(value1, value2)
-'''
-'''
+```
+```
 Ex)
 DATA = [
   ['오백삼십조칠천팔백구십만천오백삼십구', '삼조사천이만삼천구'],
@@ -21,4 +21,4 @@ for (item of DATA) {
   console.log(sum(item[0], item[1]))
 }
 
-'''
+```
